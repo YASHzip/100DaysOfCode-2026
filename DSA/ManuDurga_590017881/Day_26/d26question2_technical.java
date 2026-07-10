@@ -2,7 +2,7 @@ package Day_26;
 
 import java.util.*;
 
-public class d25question2_technical {
+public class d26question2_technical {
     
     public static class Solution {
     public int tripleSumCheck(int[] nums) {
