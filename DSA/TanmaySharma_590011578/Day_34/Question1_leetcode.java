@@ -1,4 +1,5 @@
 package DSA.TanmaySharma_590011578.Day_34;
+
 class MyQueue {
 
     Stack<Integer> input;
